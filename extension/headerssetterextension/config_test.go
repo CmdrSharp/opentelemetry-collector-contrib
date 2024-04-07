@@ -12,7 +12,7 @@ import (
 	"go.opentelemetry.io/collector/component"
 	"go.opentelemetry.io/collector/confmap/confmaptest"
 
-	"github.com/open-telemetry/opentelemetry-collector-contrib/extension/headerssetterextension/internal/metadata"
+	"github.com/CmdrSharp/opentelemetry-collector-contrib/extension/headerssetterextension/internal/metadata"
 )
 
 func TestLoadConfig(t *testing.T) {

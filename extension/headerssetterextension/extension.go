@@ -13,8 +13,8 @@ import (
 	"go.uber.org/zap"
 	"google.golang.org/grpc/credentials"
 
-	"github.com/open-telemetry/opentelemetry-collector-contrib/extension/headerssetterextension/internal/action"
-	"github.com/open-telemetry/opentelemetry-collector-contrib/extension/headerssetterextension/internal/source"
+	"github.com/CmdrSharp/opentelemetry-collector-contrib/extension/headerssetterextension/internal/action"
+	"github.com/CmdrSharp/opentelemetry-collector-contrib/extension/headerssetterextension/internal/source"
 )
 
 type Header struct {

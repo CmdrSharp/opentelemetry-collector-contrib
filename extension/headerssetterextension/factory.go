@@ -9,7 +9,7 @@ import (
 	"go.opentelemetry.io/collector/component"
 	"go.opentelemetry.io/collector/extension"
 
-	"github.com/open-telemetry/opentelemetry-collector-contrib/extension/headerssetterextension/internal/metadata"
+	"github.com/CmdrSharp/opentelemetry-collector-contrib/extension/headerssetterextension/internal/metadata"
 )
 
 // NewFactory creates a factory for the headers setter extension.

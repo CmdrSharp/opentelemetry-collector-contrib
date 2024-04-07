@@ -8,6 +8,6 @@ status:
   distributions:
   - contrib
   codeowners:
-    active: [jpkrohling]
+    active: [cmdrsharp]
 tests:
   config:
